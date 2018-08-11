@@ -1,3 +1,13 @@
+assets:
+  plugins:
+    css: { autoprefixer: {}}
+    img: { optim: {}}
+  source_maps: false
+  sources:
+    - _assets/javascripts
+    - _assets/stylesheets
+    - _assets/yarn
+
 # Welcome to Jekyll!
 #
 # This config file is meant for settings that affect your whole blog, values
@@ -54,3 +64,24 @@ maps:
 #   - vendor/cache/
 #   - vendor/gems/
 #   - vendor/ruby/
+
+exclude:
+  - .travis.yml
+  - bin/*
+  - circle.yml
+  - Gemfile
+  - Gemfile.lock
+  - package.json
+  - README.md
+  - yarn.lock
+
+
+plugins:
+  - jekyll-assets
+  - jekyll-sitemap
+
+name:
+
+permalink: pretty
+
+url: # Add your site url
