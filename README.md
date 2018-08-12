@@ -5,3 +5,7 @@ To update,
 git add, commit,push
 bin/deploy
 rebuild gh-pages branch in circleCI if it was skipped.
+
+
+For production:
+jekyll serve --livereload. 
