@@ -1,6 +1,11 @@
 machine:
+  environment:
+    USER_NAME: aupreti
+    USER_EMAIL: upreti.angela@gmail.com
   ruby:
-    version: 2.4.3
+    version: 2.4.1
+  node:
+    version: 8.2.1
 
 dependencies:
   pre:
@@ -9,6 +14,10 @@ dependencies:
 test:
   post:
     - bundle exec jekyll build
-    - bundle exec htmlproofer ./_site --only-4xx --allow-hash-href --assume-extension --check-opengraph
-- USER_NAME: aupreti
-- USER_EMAIL: upreti.angela@gmail.com
+    - bundle exec htmlproofer ./_site --only-4xx --allow-hash-href
+
+deployment:
+  production:
+    branch: master
+    commands:
+      - ./bin/automated
