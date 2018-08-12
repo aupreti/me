@@ -4,7 +4,7 @@
 
 layout: page
 ---
-![Princeton, July 2018](/images/at_princeton.jpg){:class="img-responsive"}
+![Princeton, July 2018](images/at_princeton.jpg){:class="img-responsive"}
 
 
 I am a graduate student in the College of Information and Computer Sciences at the University of Masachussets Amherst. My research interests are in the areas of Computer Systems, Formal Methods and Network Security. I work with Professor <a href = "https://people.cs.umass.edu/~moss/">Eliot Moss</a>.

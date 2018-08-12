@@ -2,69 +2,69 @@
   location:
     latitude: 42.3912
     longitude: -72.5267
-    image: "/images/umass_grad.jpg"
+    image: "images/umass_grad.jpg"
 - title: "Smith College Rythm Nations"
   location:
     latitude: 42.319612
     longitude: -72.63754899
-    image: "/images/smith_iso_dance.jpg"
+    image: "images/smith_iso_dance.jpg"
 - title: "Chok Tanahun"
   location:
     latitude: 27.94470499999999
     longitude: 84.2278796000
-    image: "/images/chok_tanahun.jpg"
+    image: "images/chok_tanahun.jpg"
 - title: "Sunnyvale, CA"
   location:
     latitude: 37.368832
     longitude: -122.036346
-    image: "/images/sixflags.jpg"
+    image: "images/sixflags.jpg"
 - title: "Paderborn, Germany"
   location:
     latitude: 51.708479
     longitude: 8.771537599
-    image: "/images/germany_musuem.jpg"
+    image: "images/germany_musuem.jpg"
 - title: "Hamburg, Germany"
   location:
     latitude: 53.5510846
     longitude: 9.993681899
-    image: "/images/hamburg_lock_bridge.jpg"
+    image: "images/hamburg_lock_bridge.jpg"
 - title: "San Francisco, CA"
   location:
     latitude: 37.7749295
     longitude: -122.4194155
-    image: "/images/CRA_w.jpg"
+    image: "images/CRA_w.jpg"
 - title: "Pokhara, Nepal"
   location:
     latitude: 28.2153837
     longitude: 83.9453168
-    image: "/images/mountain_pokhara.jpg"
+    image: "images/mountain_pokhara.jpg"
 - title: "Paris, France"
   location:
     latitude: 48.8583698
     longitude: 2.294483300
-    image: "/images/eiffel.jpg"
+    image: "images/eiffel.jpg"
 - title: "Doha Qatar"
   location:
     latitude: 25.2854473
     longitude: 51.53103979
-    image: "/images/doha_transit.jpg"
+    image: "images/doha_transit.jpg"
 - title: "Boston"
   location:
     latitude: 42.331764
     longitude: -71.1211634
-    image: "/images/musuem_boston.jpg"
+    image: "images/musuem_boston.jpg"
 - title: "Bela"
   location:
     latitude: 42.3250896
     longitude: -72.641201
-    image: "/images/bela_birthday.jpg"
+    image: "images/bela_birthday.jpg"
 - title: "Hadley"
   location:
     latitude: 42.3417565
     longitude: -72.5884
-    image: "/images/hadley.jpg"
+    image: "images/hadley.jpg"
 - title: "Budapest Hungary"
   location:
     latitude: 47.5152483
     longitude: 19.083015899
-    image: "/images/hungary_pic.jpg"
+    image: "images/hungary_pic.jpg"
