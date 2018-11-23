@@ -71,5 +71,5 @@
 - title: "NYC"
   location:
     latitude: 40.7128
-    longitude: 74.006
+    longitude: -74.006
     image: "../images/milkbar.jpg"
