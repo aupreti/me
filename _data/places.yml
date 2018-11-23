@@ -68,3 +68,8 @@
     latitude: 47.5152483
     longitude: 19.083015899
     image: "../images/hungary_pic.jpg"
+- title: "NYC"
+  location:
+    latitude: 40.7128
+    longitude: 74.006
+    image: "../images/milkbar.jpg"
